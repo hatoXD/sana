@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sana/static/css/main.85249075.chunk.css",
+    "main.js": "/sana/static/js/main.645a1d80.chunk.js",
+    "main.js.map": "/sana/static/js/main.645a1d80.chunk.js.map",
+    "runtime~main.js": "/sana/static/js/runtime~main.8756fb09.js",
+    "runtime~main.js.map": "/sana/static/js/runtime~main.8756fb09.js.map",
+    "static/js/2.91dc03cb.chunk.js": "/sana/static/js/2.91dc03cb.chunk.js",
+    "static/js/2.91dc03cb.chunk.js.map": "/sana/static/js/2.91dc03cb.chunk.js.map",
+    "index.html": "/sana/index.html",
+    "precache-manifest.b8a191a79a076920e9b677cf2fd1a2e6.js": "/sana/precache-manifest.b8a191a79a076920e9b677cf2fd1a2e6.js",
+    "service-worker.js": "/sana/service-worker.js",
+    "static/css/main.85249075.chunk.css.map": "/sana/static/css/main.85249075.chunk.css.map"
+  }
+}
